@@ -19,3 +19,5 @@ Something like a binary search tree except when it returns false(egg didn't brea
 3. For each floor the new egg is dropped from, set the temp value to that floor until the egg finally breaks.
 
 4. Return that temp value, which should be the floor below the one where it broke.
+
+5. Runtime complexity 0(log n) "Divide and conquer"
